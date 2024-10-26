@@ -1,0 +1,25 @@
+@media only screen and (max-width:600px){
+    .diwali-off img{
+        margin-left: 30px;
+        margin-top: 10px;
+        height: 90px !important;
+        width: 90px !important;
+    }
+    .home-content{
+        height: 250px !important;
+        width: 250px !important;
+        padding: 10px;
+    }
+    .home-content p{
+        font-size: 13px;
+    }
+    .home-content h3{
+        font-size: 17px !important;
+    }
+    .home-content a{
+        font-weight: 500 !important;
+        font-size: 15px !important;
+        /* padding: 5px 10px !important; */
+    }
+
+}

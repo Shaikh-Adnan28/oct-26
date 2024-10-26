@@ -1,0 +1,30 @@
+
+.diwali-off img{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.home-content{
+    height: 350px;
+    display: flex;
+    align-items: start;
+    justify-content: space-around;
+    flex-direction: column;
+    width: 400px;
+    /* border: 2px solid black; */
+}
+.card-div{
+    height: 300px;
+    /* border: 2px solid red; */
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     line-height: 10px;
+}
+.card-div img{
+    height: 170px;
+    width: 200px;
+    object-fit: cover;
+}
